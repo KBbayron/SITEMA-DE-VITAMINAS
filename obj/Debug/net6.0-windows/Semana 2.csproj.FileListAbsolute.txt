@@ -1,0 +1,176 @@
+D:\Programación IV\Semana 2\bin\Debug\net6.0-windows\Semana 2.exe
+D:\Programación IV\Semana 2\bin\Debug\net6.0-windows\Semana 2.deps.json
+D:\Programación IV\Semana 2\bin\Debug\net6.0-windows\Semana 2.runtimeconfig.json
+D:\Programación IV\Semana 2\bin\Debug\net6.0-windows\Semana 2.dll
+D:\Programación IV\Semana 2\bin\Debug\net6.0-windows\Semana 2.pdb
+D:\Programación IV\Semana 2\obj\Debug\net6.0-windows\Semana 2.csproj.GenerateResource.cache
+D:\Programación IV\Semana 2\obj\Debug\net6.0-windows\Semana 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programación IV\Semana 2\obj\Debug\net6.0-windows\Semana 2.AssemblyInfoInputs.cache
+D:\Programación IV\Semana 2\obj\Debug\net6.0-windows\Semana 2.AssemblyInfo.cs
+D:\Programación IV\Semana 2\obj\Debug\net6.0-windows\Semana 2.csproj.CoreCompileInputs.cache
+D:\Programación IV\Semana 2\obj\Debug\net6.0-windows\Semana 2.dll
+D:\Programación IV\Semana 2\obj\Debug\net6.0-windows\refint\Semana 2.dll
+D:\Programación IV\Semana 2\obj\Debug\net6.0-windows\Semana 2.pdb
+D:\Programación IV\Semana 2\obj\Debug\net6.0-windows\Semana 2.genruntimeconfig.cache
+D:\Programación IV\Semana 2\obj\Debug\net6.0-windows\ref\Semana 2.dll
+D:\Programación IV\Semana 2\obj\Debug\net6.0-windows\Semana_2.INGRESO.resources
+D:\Programación IV\Semana 2\obj\Debug\net6.0-windows\Semana_2.Form2.resources
+D:\Programación IV\Semana 2\obj\Debug\net6.0-windows\Semana_2.Properties.Resources.resources
+C:\Users\pc_uca\Downloads\Semana 3\bin\Debug\net6.0-windows\Semana 2.exe
+C:\Users\pc_uca\Downloads\Semana 3\bin\Debug\net6.0-windows\Semana 2.deps.json
+C:\Users\pc_uca\Downloads\Semana 3\bin\Debug\net6.0-windows\Semana 2.runtimeconfig.json
+C:\Users\pc_uca\Downloads\Semana 3\bin\Debug\net6.0-windows\Semana 2.dll
+C:\Users\pc_uca\Downloads\Semana 3\bin\Debug\net6.0-windows\Semana 2.pdb
+C:\Users\pc_uca\Downloads\Semana 3\obj\Debug\net6.0-windows\Semana_2.Falimento.resources
+C:\Users\pc_uca\Downloads\Semana 3\obj\Debug\net6.0-windows\Semana_2.FFuente.resources
+C:\Users\pc_uca\Downloads\Semana 3\obj\Debug\net6.0-windows\Semana_2.INGRESO.resources
+C:\Users\pc_uca\Downloads\Semana 3\obj\Debug\net6.0-windows\Semana_2.FVitamina.resources
+C:\Users\pc_uca\Downloads\Semana 3\obj\Debug\net6.0-windows\Semana_2.Menu.resources
+C:\Users\pc_uca\Downloads\Semana 3\obj\Debug\net6.0-windows\Semana_2.Properties.Resources.resources
+C:\Users\pc_uca\Downloads\Semana 3\obj\Debug\net6.0-windows\Semana 2.csproj.GenerateResource.cache
+C:\Users\pc_uca\Downloads\Semana 3\obj\Debug\net6.0-windows\Semana 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc_uca\Downloads\Semana 3\obj\Debug\net6.0-windows\Semana 2.AssemblyInfoInputs.cache
+C:\Users\pc_uca\Downloads\Semana 3\obj\Debug\net6.0-windows\Semana 2.AssemblyInfo.cs
+C:\Users\pc_uca\Downloads\Semana 3\obj\Debug\net6.0-windows\Semana 2.csproj.CoreCompileInputs.cache
+C:\Users\pc_uca\Downloads\Semana 3\obj\Debug\net6.0-windows\Semana 2.dll
+C:\Users\pc_uca\Downloads\Semana 3\obj\Debug\net6.0-windows\refint\Semana 2.dll
+C:\Users\pc_uca\Downloads\Semana 3\obj\Debug\net6.0-windows\Semana 2.pdb
+C:\Users\pc_uca\Downloads\Semana 3\obj\Debug\net6.0-windows\Semana 2.genruntimeconfig.cache
+C:\Users\pc_uca\Downloads\Semana 3\obj\Debug\net6.0-windows\ref\Semana 2.dll
+E:\Progrmacion IV\Semana 4\bin\Debug\net6.0-windows\Semana 2.exe
+E:\Progrmacion IV\Semana 4\bin\Debug\net6.0-windows\Semana 2.deps.json
+E:\Progrmacion IV\Semana 4\bin\Debug\net6.0-windows\Semana 2.runtimeconfig.json
+E:\Progrmacion IV\Semana 4\bin\Debug\net6.0-windows\Semana 2.dll
+E:\Progrmacion IV\Semana 4\bin\Debug\net6.0-windows\Semana 2.pdb
+E:\Progrmacion IV\Semana 4\obj\Debug\net6.0-windows\Semana_2.Falimento.resources
+E:\Progrmacion IV\Semana 4\obj\Debug\net6.0-windows\Semana_2.FFuente.resources
+E:\Progrmacion IV\Semana 4\obj\Debug\net6.0-windows\Semana_2.INGRESO.resources
+E:\Progrmacion IV\Semana 4\obj\Debug\net6.0-windows\Semana_2.FVitamina.resources
+E:\Progrmacion IV\Semana 4\obj\Debug\net6.0-windows\Semana_2.Menu.resources
+E:\Progrmacion IV\Semana 4\obj\Debug\net6.0-windows\Semana_2.Properties.Resources.resources
+E:\Progrmacion IV\Semana 4\obj\Debug\net6.0-windows\Semana 2.csproj.GenerateResource.cache
+E:\Progrmacion IV\Semana 4\obj\Debug\net6.0-windows\Semana 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Progrmacion IV\Semana 4\obj\Debug\net6.0-windows\Semana 2.AssemblyInfoInputs.cache
+E:\Progrmacion IV\Semana 4\obj\Debug\net6.0-windows\Semana 2.AssemblyInfo.cs
+E:\Progrmacion IV\Semana 4\obj\Debug\net6.0-windows\Semana 2.csproj.CoreCompileInputs.cache
+E:\Progrmacion IV\Semana 4\obj\Debug\net6.0-windows\Semana 2.dll
+E:\Progrmacion IV\Semana 4\obj\Debug\net6.0-windows\refint\Semana 2.dll
+E:\Progrmacion IV\Semana 4\obj\Debug\net6.0-windows\Semana 2.pdb
+E:\Progrmacion IV\Semana 4\obj\Debug\net6.0-windows\Semana 2.genruntimeconfig.cache
+E:\Progrmacion IV\Semana 4\obj\Debug\net6.0-windows\ref\Semana 2.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Semana 6\bin\Debug\net6.0-windows\Semana 2.exe
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Semana 6\bin\Debug\net6.0-windows\Semana 2.deps.json
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Semana 6\bin\Debug\net6.0-windows\Semana 2.runtimeconfig.json
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Semana 6\bin\Debug\net6.0-windows\Semana 2.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Semana 6\bin\Debug\net6.0-windows\Semana 2.pdb
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Semana 6\obj\Debug\net6.0-windows\Interop.ADODB.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Semana 6\obj\Debug\net6.0-windows\Semana 2.csproj.ResolveComReference.cache
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Semana 6\obj\Debug\net6.0-windows\Semana_2.Falimento.resources
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Semana 6\obj\Debug\net6.0-windows\Semana_2.FFuente.resources
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Semana 6\obj\Debug\net6.0-windows\Semana_2.INGRESO.resources
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Semana 6\obj\Debug\net6.0-windows\Semana_2.FVitamina.resources
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Semana 6\obj\Debug\net6.0-windows\Semana_2.Menu.resources
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Semana 6\obj\Debug\net6.0-windows\Semana_2.Properties.Resources.resources
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Semana 6\obj\Debug\net6.0-windows\Semana 2.csproj.GenerateResource.cache
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Semana 6\obj\Debug\net6.0-windows\Semana 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Semana 6\obj\Debug\net6.0-windows\Semana 2.AssemblyInfoInputs.cache
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Semana 6\obj\Debug\net6.0-windows\Semana 2.AssemblyInfo.cs
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Semana 6\obj\Debug\net6.0-windows\Semana 2.csproj.CoreCompileInputs.cache
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Semana 6\obj\Debug\net6.0-windows\Semana 2.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Semana 6\obj\Debug\net6.0-windows\refint\Semana 2.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Semana 6\obj\Debug\net6.0-windows\Semana 2.pdb
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Semana 6\obj\Debug\net6.0-windows\Semana 2.genruntimeconfig.cache
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Semana 6\obj\Debug\net6.0-windows\ref\Semana 2.dll
+D:\Progrmacion IV\Semana 7\bin\Debug\net6.0-windows\Semana 2.exe
+D:\Progrmacion IV\Semana 7\bin\Debug\net6.0-windows\Semana 2.deps.json
+D:\Progrmacion IV\Semana 7\bin\Debug\net6.0-windows\Semana 2.runtimeconfig.json
+D:\Progrmacion IV\Semana 7\bin\Debug\net6.0-windows\Semana 2.dll
+D:\Progrmacion IV\Semana 7\bin\Debug\net6.0-windows\Semana 2.pdb
+D:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Interop.ADODB.dll
+D:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana 2.csproj.ResolveComReference.cache
+D:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana_2.Falimento.resources
+D:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana_2.FFuente.resources
+D:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana_2.INGRESO.resources
+D:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana_2.FVitamina.resources
+D:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana_2.Menu.resources
+D:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana_2.Properties.Resources.resources
+D:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana 2.csproj.GenerateResource.cache
+D:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana 2.AssemblyInfoInputs.cache
+D:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana 2.AssemblyInfo.cs
+D:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana 2.csproj.CoreCompileInputs.cache
+D:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana 2.dll
+D:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\refint\Semana 2.dll
+D:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana 2.pdb
+D:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana 2.genruntimeconfig.cache
+D:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\ref\Semana 2.dll
+E:\Progrmacion IV\Semana 7\bin\Debug\net6.0-windows\Semana 2.exe
+E:\Progrmacion IV\Semana 7\bin\Debug\net6.0-windows\Semana 2.deps.json
+E:\Progrmacion IV\Semana 7\bin\Debug\net6.0-windows\Semana 2.runtimeconfig.json
+E:\Progrmacion IV\Semana 7\bin\Debug\net6.0-windows\Semana 2.dll
+E:\Progrmacion IV\Semana 7\bin\Debug\net6.0-windows\Semana 2.pdb
+E:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Interop.ADODB.dll
+E:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana 2.csproj.ResolveComReference.cache
+E:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana_2.Falimento.resources
+E:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana_2.FFuente.resources
+E:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana_2.INGRESO.resources
+E:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana_2.FVitamina.resources
+E:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana_2.Menu.resources
+E:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana_2.Properties.Resources.resources
+E:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana 2.csproj.GenerateResource.cache
+E:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana 2.AssemblyInfoInputs.cache
+E:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana 2.AssemblyInfo.cs
+E:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana 2.csproj.CoreCompileInputs.cache
+E:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana 2.dll
+E:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\refint\Semana 2.dll
+E:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana 2.pdb
+E:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\Semana 2.genruntimeconfig.cache
+E:\Progrmacion IV\Semana 7\obj\Debug\net6.0-windows\ref\Semana 2.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Proyecto de clase\bin\Debug\net6.0-windows\Semana 2.exe
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Proyecto de clase\bin\Debug\net6.0-windows\Semana 2.deps.json
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Proyecto de clase\bin\Debug\net6.0-windows\Semana 2.runtimeconfig.json
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Proyecto de clase\bin\Debug\net6.0-windows\Semana 2.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Proyecto de clase\bin\Debug\net6.0-windows\Semana 2.pdb
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Proyecto de clase\obj\Debug\net6.0-windows\Interop.ADODB.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Proyecto de clase\obj\Debug\net6.0-windows\Semana 2.csproj.ResolveComReference.cache
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Proyecto de clase\obj\Debug\net6.0-windows\Semana_2.Falimento.resources
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Proyecto de clase\obj\Debug\net6.0-windows\Semana_2.FFuente.resources
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Proyecto de clase\obj\Debug\net6.0-windows\Semana_2.INGRESO.resources
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Proyecto de clase\obj\Debug\net6.0-windows\Semana_2.FVitamina.resources
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Proyecto de clase\obj\Debug\net6.0-windows\Semana_2.Menu.resources
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Proyecto de clase\obj\Debug\net6.0-windows\Semana_2.Properties.Resources.resources
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Proyecto de clase\obj\Debug\net6.0-windows\Semana 2.csproj.GenerateResource.cache
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Proyecto de clase\obj\Debug\net6.0-windows\Semana 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Proyecto de clase\obj\Debug\net6.0-windows\Semana 2.AssemblyInfoInputs.cache
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Proyecto de clase\obj\Debug\net6.0-windows\Semana 2.AssemblyInfo.cs
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Proyecto de clase\obj\Debug\net6.0-windows\Semana 2.csproj.CoreCompileInputs.cache
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Proyecto de clase\obj\Debug\net6.0-windows\Semana 2.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Proyecto de clase\obj\Debug\net6.0-windows\refint\Semana 2.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Proyecto de clase\obj\Debug\net6.0-windows\Semana 2.pdb
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Proyecto de clase\obj\Debug\net6.0-windows\Semana 2.genruntimeconfig.cache
+C:\Users\bayro\OneDrive\Documentos\UCA\Progrmacion IV\Proyecto de clase\obj\Debug\net6.0-windows\ref\Semana 2.dll
+C:\Users\pc_uca\Downloads\Proyecto de clase\bin\Debug\net6.0-windows\Semana 2.exe
+C:\Users\pc_uca\Downloads\Proyecto de clase\bin\Debug\net6.0-windows\Semana 2.deps.json
+C:\Users\pc_uca\Downloads\Proyecto de clase\bin\Debug\net6.0-windows\Semana 2.runtimeconfig.json
+C:\Users\pc_uca\Downloads\Proyecto de clase\bin\Debug\net6.0-windows\Semana 2.dll
+C:\Users\pc_uca\Downloads\Proyecto de clase\bin\Debug\net6.0-windows\Semana 2.pdb
+C:\Users\pc_uca\Downloads\Proyecto de clase\obj\Debug\net6.0-windows\Interop.ADODB.dll
+C:\Users\pc_uca\Downloads\Proyecto de clase\obj\Debug\net6.0-windows\Semana 2.csproj.ResolveComReference.cache
+C:\Users\pc_uca\Downloads\Proyecto de clase\obj\Debug\net6.0-windows\Semana_2.Falimento.resources
+C:\Users\pc_uca\Downloads\Proyecto de clase\obj\Debug\net6.0-windows\Semana_2.FFuente.resources
+C:\Users\pc_uca\Downloads\Proyecto de clase\obj\Debug\net6.0-windows\Semana_2.INGRESO.resources
+C:\Users\pc_uca\Downloads\Proyecto de clase\obj\Debug\net6.0-windows\Semana_2.FVitamina.resources
+C:\Users\pc_uca\Downloads\Proyecto de clase\obj\Debug\net6.0-windows\Semana_2.Menu.resources
+C:\Users\pc_uca\Downloads\Proyecto de clase\obj\Debug\net6.0-windows\Semana_2.Properties.Resources.resources
+C:\Users\pc_uca\Downloads\Proyecto de clase\obj\Debug\net6.0-windows\Semana_2.Reporte.resources
+C:\Users\pc_uca\Downloads\Proyecto de clase\obj\Debug\net6.0-windows\Semana 2.csproj.GenerateResource.cache
+C:\Users\pc_uca\Downloads\Proyecto de clase\obj\Debug\net6.0-windows\Semana 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc_uca\Downloads\Proyecto de clase\obj\Debug\net6.0-windows\Semana 2.AssemblyInfoInputs.cache
+C:\Users\pc_uca\Downloads\Proyecto de clase\obj\Debug\net6.0-windows\Semana 2.AssemblyInfo.cs
+C:\Users\pc_uca\Downloads\Proyecto de clase\obj\Debug\net6.0-windows\Semana 2.csproj.CoreCompileInputs.cache
+C:\Users\pc_uca\Downloads\Proyecto de clase\obj\Debug\net6.0-windows\Semana 2.dll
+C:\Users\pc_uca\Downloads\Proyecto de clase\obj\Debug\net6.0-windows\refint\Semana 2.dll
+C:\Users\pc_uca\Downloads\Proyecto de clase\obj\Debug\net6.0-windows\Semana 2.pdb
+C:\Users\pc_uca\Downloads\Proyecto de clase\obj\Debug\net6.0-windows\Semana 2.genruntimeconfig.cache
+C:\Users\pc_uca\Downloads\Proyecto de clase\obj\Debug\net6.0-windows\ref\Semana 2.dll
